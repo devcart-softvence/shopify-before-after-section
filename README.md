@@ -22,3 +22,24 @@ Follow these simple steps to install and use the Before After Slider section in 
 - Navigate to the page where you want to add the slider (e.g., Homepage or a Custom Page).
 - Click **Add section**, then search for: (Before After Slider)
 
+- Add it to your layout, upload your Before & After images, and adjust any available settings.
+
+## 💡 Features
+- Clean and responsive layout
+- Simple setup – no coding required after pasting
+- Works on any section-enabled Shopify theme
+
+## 🛠️ Notes
+- Make sure your images are the **same size** for best comparison results.
+- If you're using a heavily customized theme, you may need to tweak some styling.
+
+## 📷 Example Use Cases
+- Product transformations (e.g. cleaning tools, skincare)
+- Photo edits
+- Makeovers or restorations
+
+---
+
+Feel free to fork, improve, or submit PRs to enhance this section! 🙌
+
+
