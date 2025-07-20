@@ -1,6 +1,3 @@
-# shopify-before-after-section
-
-
 # 📸 Before After Slider – Shopify Section
 
 This section adds a responsive Before/After image comparison slider to your Shopify store. Perfect for showcasing product transformations, makeovers, edits, or any visual comparison.
