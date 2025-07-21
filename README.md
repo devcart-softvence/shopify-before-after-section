@@ -1,8 +1,5 @@
 # 📸 Before After Slider – Shopify Section
 
-<img width="320" height="404" alt="Image (15)" src="https://github.com/user-attachments/assets/6673b5a7-c989-4a3a-94c6-d597721b5eab" />
-
-
 This section adds a responsive Before/After image comparison slider to your Shopify store. Perfect for showcasing product transformations, makeovers, edits, or any visual comparison.
 
 ## ✅ How to Install
